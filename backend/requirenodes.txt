@@ -1,0 +1,10 @@
+koa
+koa-router
+koa-bodyparser
+sequelize
+mysql
+mysql2
+mariadb
+bcrypt
+joi
+jsonwebtoken

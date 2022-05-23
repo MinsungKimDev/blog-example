@@ -1,0 +1,5 @@
+# environment
+/src/.env
+
+# module
+/node_modules
